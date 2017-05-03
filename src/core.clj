@@ -46,3 +46,14 @@
     :definition "typedef struct STRUCT_NAME { int x; char y; } IDENTIFIER"}
    {:subject "typedef" :definition "for(int i = 0; i < 5; i++) { code; }"}
    ])
+
+(def spanish-flashcards-stack
+  [{:spanish "¿Cómo está usted?"
+    :english "How are you?"
+    :pronunciation "KOH-moh ehs-TA oos-TEHD"}
+   {:spanish "Mucho gusto."
+    :english "Nice to meet you."
+    :pronunciation "MOO-choh GOOS-toh"}
+   {:spanish "Por favor, habla mas despacio."
+    :english "Would you speak slower, please."
+    :pronunciation "pohr fah-VOR, AH-blah mahs dehs-PAHS-ee-oh"}])
